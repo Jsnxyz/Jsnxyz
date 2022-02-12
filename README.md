@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jsnxyz
+- 👋 Hi, I’m Ajay Jason Andrade.
 - 👀 I’m interested in Frontend development and general Node.js environment.
 - 🌱 I’m currently learning React, Advanced CSS, a11y, and Microservices architecture.
 - 💞️ I’m looking to collaborate on any frontend projects.
